@@ -3,7 +3,7 @@
 #ID No:502195
 #Id:1003064599
 #ID:correo:Jonnier.teran@upb.edu.co
-#Cel:3255644212
+#Cel:3245644212
 
 # Importamos  las librerias de tratamiento de datos
 import numpy as np
